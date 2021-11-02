@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.PGRegistrationBooster",
+  "simulationId": "pgregistrationbooster",
+  "start": 1635876174879,
+  "description": "",
+  "scenarios": ["FeederTest"],
+  "assertions": [
+
+  ]
+}

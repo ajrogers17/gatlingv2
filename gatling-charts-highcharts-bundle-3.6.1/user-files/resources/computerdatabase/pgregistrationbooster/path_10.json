@@ -1,0 +1,66 @@
+{
+    "patientAnswers": [
+        {
+            "surveyId": 338,
+            "questionId": "2030",
+            "dateAnswered": 1634316979214,
+            "answerId": [
+                "7145"
+            ]
+        },
+        {
+            "surveyId": 338,
+            "questionId": "2031",
+            "dateAnswered": 1634316979214,
+            "answerId": [
+                
+            ]
+        },
+        {
+            "surveyId": 338,
+            "questionId": "2033",
+            "dateAnswered": 1634316979214,
+            "comments": ""
+        },
+        {
+            "surveyId": 338,
+            "questionId": "2032",
+            "dateAnswered": 1634316979214,
+            "answerId": [
+                
+            ]
+        },
+        {
+            "surveyId": 338,
+            "questionId": "2034",
+            "dateAnswered": 1634316979214,
+            "answerId": [
+                
+            ]
+        },
+        {
+            "surveyId": 338,
+            "questionId": "2035",
+            "dateAnswered": 1634316979214,
+            "comments": ""
+        },
+        {
+            "surveyId": 338,
+            "questionId": "2036",
+            "dateAnswered": 1634316979214,
+            "answerId": [
+                
+            ]
+        },
+        {
+            "surveyId": 338,
+            "questionId": "2037",
+            "dateAnswered": 1634316979214,
+            "answerId": [
+                "7156"
+            ]
+        }
+    ],
+    "duration": 10,
+    "assessmentId": 338
+}
