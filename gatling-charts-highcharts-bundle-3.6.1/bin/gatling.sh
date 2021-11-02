@@ -16,8 +16,8 @@
 #
 if [ -n "$JAVA_HOME" ]; then
     #JAVA=/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java
-#    JAVA="$JAVA_HOME"/Contents/Home/bin/java
-   JAVA="$JAVA_HOME"/bin/java 
+    JAVA=/usr/lib/jvm/java-1.8-openjdk  
+   #JAVA="$JAVA_HOME"/bin/java 
 
 else
     JAVA=java
