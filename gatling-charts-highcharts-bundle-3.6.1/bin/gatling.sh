@@ -15,9 +15,9 @@
 # limitations under the License.
 #
 if [ -n "$JAVA_HOME" ]; then
-    JAVA=/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java
+    #JAVA=/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java
 #    JAVA="$JAVA_HOME"/Contents/Home/bin/java
-#   JAVA="$JAVA_HOME"/bin/java 
+   JAVA="$JAVA_HOME"/bin/java 
 
 else
     JAVA=java
